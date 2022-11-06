@@ -1,0 +1,1 @@
+export const SIGN_USER = "sign_user";
